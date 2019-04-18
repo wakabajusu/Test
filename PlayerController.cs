@@ -18,7 +18,8 @@ public class PlayerController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-       // えんどうまもる
+       // イナズマイレブンをすこれ
+       // アイマスもいいぞ
 
 
         for(int i=0;i<Capa;i++)
